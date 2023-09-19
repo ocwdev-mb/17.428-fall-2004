@@ -1,0 +1,57 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ]
+  ],
+  "legacy_uid": "14dd6471-1d0f-e24a-b1c3-e23896f3e236",
+  "instructors": {
+    "content": [
+      "555a4b0b-fd37-ef29-e364-4b6d9753b702"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "67ce5052-4e10-68ca-f1a3-649b8627a065",
+    "website": "17-428-american-foreign-policy-theory-and-method-fall-2004"
+  },
+  "course_title": "American Foreign Policy: Theory and Method",
+  "course_description": "This course examines the causes and consequences of American foreign policy since 1898. Course readings cover both substantive and methods topics. Four substantive topics are covered:\n\n1.  major theories of American foreign policy;\n2.  major episodes in the history of American foreign policy and historical/interpretive controversies about them;\n3.  the evaluation of major past American foreign policies--were their results good or bad? and\n4.  current policy controversies, including means of evaluating proposed policies.\n\nThree methods topics are covered:\n\n1.  basic social scientific inference--what are theories? what are good theories? how should theories be framed and tested?\n2.  historical investigative methodology, including archival research, and, most importantly,\n3.  case study methodology.\n\nHistorical episodes covered in the course are used as raw material for case studies, asking \"if these episodes were the subject of case studies, how should those studies be performed, and what could be learned from them?\"\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.428",
+  "course_image_thumbnail": {
+    "content": "9d6a11ca-3209-f1cc-f05a-fe89ce743f5f",
+    "website": "17-428-american-foreign-policy-theory-and-method-fall-2004"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "60877f80-6007-4b35-acd7-6450a01e61f2",
+  "site_short_id": "17.428-fall-2004",
+  "title": "Course Metadata"
+}
